@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    text-decoration:underline; 
+}
+
+.osake-container{
+    display: flex;
+    justify-content: center;
+}
+.osake-detail{
+    width: 60%;
+    text-align: center;
+    border-radius: 10%;
+    background-color: white;
+}
+
+
+.detail-title{
+    text-align: center;
+    font-size: 20px;
+}
+
+.three-contents{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.three-answers{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.detail-answer{
+    width: 100%;
+}
+
+
+.title-name{
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.4em;
+    border-radius: 50px;
+}
+
+.title-name span{
+    background: #FFD9D7;
+    padding: 5px;
+    border-radius: 5px;
+}

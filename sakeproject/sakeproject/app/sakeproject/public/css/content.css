@@ -1,0 +1,21 @@
+.liked {
+    color: pink;
+    text-align: left;
+  }
+
+#box{
+    width: 50px;
+    height: 25px;
+    cursor: pointer;
+    background-color: gray;
+    border-radius: 5px;
+    }
+#box.orange{
+    background-color: #FF8C00;
+    }
+#box p{
+    line-height: 140px;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight:bold;
+    }
